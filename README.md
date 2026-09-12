@@ -20,7 +20,7 @@
 ## 文件结构
 
 ```
-MiniWin/
+MiNiWin--DESKTOP--OS/
 ├── bin/
 │   ├── boot.bin          # 编译产物
 │   ├── kernel.bin        # 编译产物
